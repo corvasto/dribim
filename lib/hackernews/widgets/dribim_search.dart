@@ -74,24 +74,3 @@ class _SearchAppBarState extends State<SearchAppBar> {
     );
   }
 }
-
-/*          ///
-
-          Container(
-            margin: const EdgeInsets.only(right: 50, left: 50),
-            padding: EdgeInsets.all(12),
-            child: Stack(
-              children: [
-                TextField(
-                  decoration: InputDecoration(
-                    border: OutlineInputBorder(),
-                    labelText: 'Search',
-                    isDense: true,
-                    contentPadding: EdgeInsets.all(8), // Added this
-                  ),
-                ),
-              ],
-            ),
-          ),
-
-*/
