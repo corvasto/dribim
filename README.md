@@ -17,4 +17,4 @@ This project is for learning purpose and far from perfect, any contribution is w
 
 ## For the original artists
 
-If you're the original artist and have some concerns about the designs, please tell us, you can use the *Issues* section to do it or directly update the code. Your name (from Dirbbble), your design title, and the url link to your designs will be listed in the code.
+If you're the original artist and have some concerns about the designs, please tell us, you can use the *Issues* section to do it or directly update the code. Your name (from Dribbble), your design title, and the url link to your designs will be listed in the code.
