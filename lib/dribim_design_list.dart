@@ -22,6 +22,12 @@ class DribimDesginList extends StatelessWidget {
         route: '/hackernews',
         dribbleLink: 'https://dribbble.com/shots/14055853-Daily-UI-094-Hacker-News',
       ),
+      ListViewItem(
+        title: 'Bank Cards Rebound',
+        authorName: 'David Afolayan',
+        route: '/bankcardsrebound',
+        dribbleLink: 'https://dribbble.com/shots/14073550-Bank-Cards-Rebound',
+      ),
       // ListViewItem(
       //   title: "[Dribble design title]",
       //   authorName: "[The author name]",

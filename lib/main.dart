@@ -3,6 +3,7 @@ import 'package:flutter/rendering.dart';
 import 'package:dribim/dribim_design_list.dart';
 import 'bookingappui/screens/bookingappui_home.dart';
 import 'hackernews/screens/hackernews_home.dart';
+import 'bankcardsrebound/screens/bankcardsrebound_home.dart';
 
 void main() {
   //debugPaintSizeEnabled = true;
@@ -25,6 +26,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/bookingappui': (context) => BookingAppUIHome(),
         '/hackernews': (context) => HackerNewsHome(),
+        '/bankcardsrebound': (context) => BankCardsReboundHome(),
       },
     );
   }
